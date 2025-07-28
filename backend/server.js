@@ -95,6 +95,7 @@ app.use('*', (req, res) => {
 });
 
 const PORT = process.env.PORT || 5001;
+// Server restart trigger
 
 app.listen(PORT, () => {
   console.log(`Server ${PORT} portunda çalışıyor`);
