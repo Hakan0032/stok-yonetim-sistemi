@@ -24,6 +24,7 @@
     }
   ],
   "env": {
-    "NODE_ENV": "production"
+    "NODE_ENV": "production",
+    "MONGODB_URI": "mongodb+srv://admin:0JCKYVH6k7U9EE3U@cluster0.mongodb.net/mermer_stok?retryWrites=true&w=majority"
   }
 }

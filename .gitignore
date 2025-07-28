@@ -106,3 +106,4 @@ Thumbs.db
 
 # Local development
 .local
+.vercel
