@@ -107,6 +107,3 @@ NODE_ENV=production
 
 MIT License
 
-## İletişim
-
-Yüceler Makine A.Ş.
